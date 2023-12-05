@@ -1,4 +1,4 @@
-#A simple alarm clock application built using Python, Tkinter, and playsound.
+# A simple alarm clock application built using Python, Tkinter, and playsound.
 
 ## Features
 
