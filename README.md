@@ -1,6 +1,4 @@
-# First task as  intern in "Sync's Intern" company: Python Alarm Clock
-
-A simple alarm clock application built using Python, Tkinter, and playsound.
+#A simple alarm clock application built using Python, Tkinter, and playsound.
 
 ## Features
 
